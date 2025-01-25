@@ -25,7 +25,7 @@ Ensure you have Node.js installed on your system. You can use any package manage
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Subhojit98/emplyee-leave-dashboard
 2. Navigate to the project directory:
     cd <project-folder>
 3. Install dependencies:
